@@ -67,4 +67,4 @@ __test_login_constructor_go.py - тесты перехода из личного
 кнопка конструктор - //div/header/nav/ul/li[1]/a
 
 лого - //div/header/nav/div/a# Sprint_5
-# Sprint_3
+
